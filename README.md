@@ -3,10 +3,15 @@
 ## 1.- PROCEDIMIENTO
 El procedimiento que se ha seguido para e desarrollo de la base datos se pueden resumir en los siguientes pasos:
 **1.1.-** Importación de las tablas que van a conformar nuestra base de datos (son archivos .csv).
+
 **1.2.-** Limpieza de los datos que contiene, pues dentro de estos pueden existir elementos que hacen que la base de datos pueda llegar a ser inconsistente.
+
 **1.3.-** Exportación de los datos una vez han sido tratados (en mi caso estos han sido sobreescritos).
+
 **1.4.-** Realización del esquema que conformará la base de datos.
+
 **1.5.-** Realización de las querys con la que queremos obtener resultados.
+
 **1.6.-** Obtención de resultados.
 	
 # 2.- LIMPIEZA DE LOS DATOS
