@@ -2,6 +2,7 @@
 
 ## 1.- PROCEDIMIENTO
 El procedimiento que se ha seguido para e desarrollo de la base datos se pueden resumir en los siguientes pasos:
+
 **1.1.-** Importación de las tablas que van a conformar nuestra base de datos (son archivos .csv).
 
 **1.2.-** Limpieza de los datos que contiene, pues dentro de estos pueden existir elementos que hacen que la base de datos pueda llegar a ser inconsistente.
